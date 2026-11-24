@@ -1,8 +1,8 @@
 class VibeTabs < Formula
   desc "Restore named tmux workspaces for AI coding agents on macOS"
   homepage "https://github.com/TakeOnePiece-Public/vibe-tabs"
-  url "https://github.com/TakeOnePiece-Public/vibe-tabs/archive/refs/tags/v0.4.1.tar.gz"
-  sha256 "730014f054810cc6ac76c9b67b0551657b10e77c0f7300a365010ec319db7a89"
+  url "https://github.com/TakeOnePiece-Public/vibe-tabs/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "26101eb01a256eb81468fdc36abeb2246853e1c88b55f4d491f5788576cefbb4"
   license "MIT"
   head "https://github.com/TakeOnePiece-Public/vibe-tabs.git", branch: "main"
 
